@@ -1,5 +1,5 @@
 _repo: Charlie-and-His-Puppy-Bingo_65360
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - &id002
@@ -10,11 +10,16 @@ contributor:
     agent_name: Hill, Helen
     gutenberg_agent_id: '53300'
     url: http://www.gutenberg.org/2009/agents/53300
+covers:
+- cover_type: archival
+  image_path: 65360-h/images/cover.jpg
 creator:
   authors:
   - *id001
   - *id002
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65360#Charlie-and-His-Puppy-Bingo
 gutenberg_issued: '2021-05-16'
 gutenberg_type: Text
 identifiers:
